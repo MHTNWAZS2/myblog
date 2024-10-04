@@ -5,7 +5,7 @@ Bu proje, **Muhittin Dayan**'ın kişisel web sitesi olarak geliştirilmiştir. 
 ## Domain Adresi
 
 Siteyi canlı olarak şu adreste görüntüleyebilirsiniz:  
-**[https://www.ornekdomain.com](https://www.muhittindayan.com.tr)**
+**https://www.muhittindayan.com.tr**
 
 ## İçerik
 
